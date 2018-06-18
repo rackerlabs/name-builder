@@ -1,15 +1,4 @@
-## Node + EJS boilderplate
-
-### This boilerplate includes the following
-* Gulp (task runner)
-* EJS (templating)
-* BrowserSync (live reloading)
-* SASS (css preprocessor)
-* ES6 (gulp-babel)
-* eslint (js linting)
-* Mocha (testing)
-* Karma (test runner)
-* Chai (testing assertion lib)
+## A Name Builder Helper for Projects
 
 ### Install and Run
 ```
@@ -43,9 +32,9 @@ Compressing Images
 gulp build-images
 ```
 
-Using JS Node Modules on the client
+Using Node Modules on the client
 ```
-gulp build-js-modules
+gulp build-node-modules
 ```
 
 ### Testing
