@@ -8,7 +8,6 @@
         "Corporate Brochure",
         "Customer Case Study",
         "Customer Use Case",
-        "Sales Presentation",
         "Data Sheet",
         "Ebook",
         "FAQ",
@@ -16,6 +15,7 @@
         "Proposal/Sales Offer",
         "Runbook",
         "Battle Card",
+        "Sales Presentation",
         "Sales Presentation/Training",
         "Sales Questionnaire",
         "Service/Solution Overview",
@@ -78,8 +78,8 @@
     {
       "type": "Ad",
       "deliverables": [
-        "Print Ad",
         "Online Ad",
+        "Print Ad",
         "Social Ad"
       ]
     },
@@ -110,16 +110,16 @@
       "type": "Video",
       "deliverables": [
         "Brand",
-        "Thought Leadership",
+        "Case Studies",
         "Customer Stories",
         "Events",
-        "Solutions",
-        "Case Studies",
-        "Product Tours",
-        "Webinars",
-        "Topic Deep Dives",
-        "Product Walkthroughs",
         "Integration How-tos",
+        "Product Tours",
+        "Product Walkthroughs",
+        "Solutions",
+        "Thought Leadership",
+        "Topic Deep Dives",
+        "Webinars",
         "Other"
       ]
     },
@@ -235,7 +235,7 @@
   ],
   "industryVertical": [
     {
-      "name": "Retail / Ecommerce",
+      "name": "Ecommerce / Retail",
       "value": "ECM"
     },
     {
