@@ -93,7 +93,7 @@ const kapost = {
     return str.replace(/[^a-zA-Z0-9]/g, '-').replace(/--/gi, '-');
   },
   sanitizeNumber(str) {
-    return str.replace(/[^0-9]/g, '');
+    return str.replace(/[^a-zA-Z0-9]/g, '-').replace(/--/gi, '-');
   },
   getData() {
     return $.getJSON('./form-options.json')

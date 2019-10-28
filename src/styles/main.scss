@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:300,400,600);
 $baseColor: #eee;
 $fadeBase: rgba($baseColor, 0.2);
 $darkenBase: darken($baseColor, 20%);
-$bodyFont: 'Source Sans Pro', sans-serif;
+$bodyFont: 'Fira Sans', sans-serif;
 $white: #fff;
 $black: #000;
 $error: #ff3838;
@@ -42,6 +42,7 @@ body {
   font-size: 18pt;
   margin: 0 auto 15px;
   width: 60%;
+  font-weight:400;
 }
 
 .kn-form {
@@ -53,7 +54,7 @@ body {
 
 .kn-form-field {
   padding: 10px 20px;
-  margin-bottom: 15px;
+  margin-bottom: 0;
 }
 
 .kn-form-label {

@@ -8,6 +8,7 @@
         "Corporate Brochure",
         "Customer Case Study",
         "Customer Use Case",
+        "Sales Presentation",
         "Data Sheet",
         "Ebook",
         "FAQ",
@@ -15,7 +16,6 @@
         "Proposal/Sales Offer",
         "Runbook",
         "Battle Card",
-        "Sales Presentation",
         "Sales Presentation/Training",
         "Sales Questionnaire",
         "Service/Solution Overview",
@@ -78,8 +78,8 @@
     {
       "type": "Ad",
       "deliverables": [
-        "Online Ad",
         "Print Ad",
+        "Online Ad",
         "Social Ad"
       ]
     },
@@ -110,16 +110,16 @@
       "type": "Video",
       "deliverables": [
         "Brand",
-        "Case Studies",
+        "Thought Leadership",
         "Customer Stories",
         "Events",
-        "Integration How-tos",
-        "Product Tours",
-        "Product Walkthroughs",
         "Solutions",
-        "Thought Leadership",
-        "Topic Deep Dives",
+        "Case Studies",
+        "Product Tours",
         "Webinars",
+        "Topic Deep Dives",
+        "Product Walkthroughs",
+        "Integration How-tos",
         "Other"
       ]
     },
@@ -213,7 +213,7 @@
       "value": "PUB"
     },
     {
-      "name": "Application Services",
+      "name": "Rackspace Application Services",
       "value": "RAS"
     },
     {
@@ -235,7 +235,7 @@
   ],
   "industryVertical": [
     {
-      "name": "Ecommerce / Retail",
+      "name": "Retail / Ecommerce",
       "value": "ECM"
     },
     {

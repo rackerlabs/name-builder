@@ -107,7 +107,7 @@ var kapost = {
     return str.replace(/[^a-zA-Z0-9]/g, '-').replace(/--/gi, '-');
   },
   sanitizeNumber: function sanitizeNumber(str) {
-    return str.replace(/[^0-9]/g, '');
+    return str.replace(/[^a-zA-Z0-9]/g, '-').replace(/--/gi, '-');
   },
   getData: function getData() {
     var _this2 = this;
